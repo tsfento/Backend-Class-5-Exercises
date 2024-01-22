@@ -1,6 +1,6 @@
 CREATE TABLE Products (
     ProductID int,
-    ProductName varchar(255),
+    ProductName text,
     Price float,
     Category text
 );
